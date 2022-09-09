@@ -1,0 +1,2 @@
+lenguaje reservada (div):el lenguaje q estoy programando es un significado para 
+hacer una funcion asignada, ya tiene una funcion asignada
